@@ -14,7 +14,7 @@ This repo simulates a two-person workflow.
 ## Logging
 Interactions are logged with timestamps and guardrail decisions.
 
-## Evaluation (Person B)
+## Evaluation
 Manual scoring metrics:
 - Relevance
 - Completeness
